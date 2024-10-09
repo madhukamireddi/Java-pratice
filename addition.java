@@ -6,6 +6,7 @@ public class addition {
         System.out.println(2*a+2*b);
         System.out.println("version 2");
         System.out.println("updating same version 2");
+        System.out.println(a+a-b);
     }
     
 }

@@ -4,5 +4,6 @@ class first
         System.err.println("Hello world");
         System.out.println("version2");
         System.out.println("updating same version 2");
+        System.out.println("version 3");
     }
 }
